@@ -1,0 +1,19 @@
+.imagen img{
+    width: 200px;
+    margin-top: 180px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.rojo{
+    margin-top: 350px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: red;
+}
+
+.letras{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
